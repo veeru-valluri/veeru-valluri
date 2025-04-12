@@ -29,5 +29,5 @@ RTL design forms the foundation of digital systems, and FPGAs allow real-time ha
 - Learn advanced verification techniques and formal methods
 
 Thanks for visiting!  
-Check out my projects, and feel free to collaborate or connect if you're into digital design too.
+
 
